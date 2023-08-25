@@ -1,2 +1,2 @@
-# radardms_uboot
+# ti radar proj.
 bootloader for radar based dms
